@@ -1,2 +1,2 @@
 # QuizGen
-PDF Quiz Generator
+Quiz and Memo Generator from PDF
